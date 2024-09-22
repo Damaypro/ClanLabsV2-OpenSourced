@@ -1,6 +1,6 @@
 /* SETTINGS START */
 const prefix = "!"
-const groupID = 123123;
+const groupID = 14564349;
 const bot_token = process.env.botToken;
 const rblxCookie = process.env.rblxCookie;
 const officerRoleE = "Officer";
